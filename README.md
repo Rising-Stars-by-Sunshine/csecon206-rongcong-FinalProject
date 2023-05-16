@@ -1,7 +1,7 @@
-# # New Love Game Model: A Dynamic Analysis of Nash Equilibirum
+# # [Final Project]
 ## Project information
-- **Author**: Wanlin Deng, Political Economy, Class of 2025, Duke Kunshan University
-- **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
+- **Author**: , Duke Kunshan University
+- **Instructor**: Rong Cong,Political Economy, 2024, Duke Kunshan University
 - **Disclaimer**: Submissions to the Problem Set No. or Final Project for [COMPSCI/ECON 206 Computational Microeconomics, 2023 Spring (Seven Week - Second)](https://ce.pubpub.org/) instructed by Prof. Luyao Zhang at Duke Kunshan University.
 - **Acknowledgments**: [How to Acknowledge?](https://www.scribbr.co.uk/thesis-dissertation/acknowledgements/)
 [notes: please include all professors, students, and staff who have contributed to your completetion of the project.]
@@ -44,13 +44,11 @@ Note: please insert the screenshot of the answers to your research question by C
 - Review articles
 - Media appearance
 
+
 ### More about the Author
-- headshot
-- self-introduction
-- Final reflections 
-  - intellectual growth
-  - professional growth
-  - living a purposeful life
+ ![image](WechatIMG68.png)
+ 
+-  As a junior majoring in political economy, Rong Cong is very interested in economics, anthropology and psychology. She hopes to do enough cross-disciplinary research and study in the future. At the same time, Rong Cong is also a music lover. This is a cover of her song 👉🏻https://y.music.163.com/m/artist?app_version=8.9.61&id=46956986&userid=1572161264&dlt=0846.
 
 ### References
 
