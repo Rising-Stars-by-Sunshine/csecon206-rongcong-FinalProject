@@ -1,7 +1,7 @@
 # # [Final Project]
 ## Project information
-- **Author**: , Duke Kunshan University
-- **Instructor**: Rong Cong,Political Economy, 2024, Duke Kunshan University
+- **Author**: Rong Cong, 2024,Duke Kunshan University
+- **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
 - **Disclaimer**: Submissions to the Problem Set No. or Final Project for [COMPSCI/ECON 206 Computational Microeconomics, 2023 Spring (Seven Week - Second)](https://ce.pubpub.org/) instructed by Prof. Luyao Zhang at Duke Kunshan University.
 - **Acknowledgments**: [How to Acknowledge?](https://www.scribbr.co.uk/thesis-dissertation/acknowledgements/)
 [notes: please include all professors, students, and staff who have contributed to your completetion of the project.]
