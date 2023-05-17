@@ -1,11 +1,9 @@
-# # [Competitive Game: The influence of obvious advertisements and the posting order on the competitiveness of SMIs.![image](https://github.com/Rising-Stars-by-Sunshine/csecon206-rongcong-FinalProject/assets/129028315/34f3bc27-ae7a-413e-a448-c2f263996593)
-]
+# # [Competitive Game: The influence of obvious advertisements and the posting order on the competitiveness of SMIs.]
 ## Project information
 - **Author**: Rong Cong, 2024,Duke Kunshan University
 - **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
 - **Disclaimer**: Submissions to the Problem Set No. or Final Project for [COMPSCI/ECON 206 Computational Microeconomics, 2023 Spring (Seven Week - Second)](https://ce.pubpub.org/) instructed by Prof. Luyao Zhang at Duke Kunshan University.
-- **Acknowledgments**: [How to Acknowledge?](https://www.scribbr.co.uk/thesis-dissertation/acknowledgements/)
-[notes: please include all professors, students, and staff who have contributed to your completetion of the project.]
+- **Acknowledgments**:  I would like to thank Prof. Luyao Zhang for her instructions on ECON206 and thanks all the classmates for the inspiring discussions and feedbacks.
 - **Project Summary**: 
   - [Summarize the Background/Motivation]
   - [Research Questions]
@@ -39,6 +37,9 @@ Note: please insert the screenshot of the answers to your research question by C
 
 ### Spotlight
 - Posters
+![image](poster.png)
+This poster gives an overview of causal research ouline. It contains five sections: Background and Motivation, Research Questions, Literature inspiration, Models, Referenes.
+This poster is created by Canva.
 - Figures
 - Slides
 - Presentations
