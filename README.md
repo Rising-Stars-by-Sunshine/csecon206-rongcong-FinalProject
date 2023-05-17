@@ -1,4 +1,5 @@
-# # [Final Project]
+# # [Competitive Game: The influence of obvious advertisements and the posting order on the competitiveness of SMIs.![image](https://github.com/Rising-Stars-by-Sunshine/csecon206-rongcong-FinalProject/assets/129028315/34f3bc27-ae7a-413e-a448-c2f263996593)
+]
 ## Project information
 - **Author**: Rong Cong, 2024,Duke Kunshan University
 - **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
