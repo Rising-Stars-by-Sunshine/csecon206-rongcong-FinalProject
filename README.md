@@ -10,9 +10,6 @@ In the process of online consumption, there are risks involved in the exchange b
 
   - [Research Questions]Major research question: Competitive Game: The influence of obvious advertisements and the posting order on the competitiveness of social media influencers.
 In order to better investigate this research question, this main problem has been divided into two small problems, corresponding to two different situations and models. How does Posting with obvious advertisements affect a SMI’s competitiveness without an obvious posting order? How does Posting with obvious advertisements affect a SMI’s competitiveness with an obvious posting order?
-
-Here is the answer by chatgpt：
-
   - [Application Scenario]This game environment simulates real-life social networking platforms. In this virtual world, we have two players—Player A and Player B, representing two social media influencers (SMIs) with similar fan bases and content types. There is a clear competition between these two players as they strive to gain the favor of the audience and stand out on this virtual social media platform.
 Player A and Player B are aware that in this highly competitive environment, they need to employ a series of strategies to attract the attention and support of the audience.
 In this virtual social media platform, Player A and Player B engage in intense competition, vying for the audience's favor. They know that the support and positive feedback from the audience will directly manifest in the form of likes and views data. Those players who can win more favor from the audience will attract more fans and collaboration opportunities. Therefore, Player A and Player B spare no effort in their endeavors to stand out on this virtual social media platform, aiming to achieve success in this fiercely competitive environment.
@@ -24,7 +21,6 @@ Given the complexity of real social media environments, the game models makes se
 3. SMIA and SMIB have a direct and evident competitive relationship, excluding competition with anyone else.
 4. All viewers simultaneously browse and compare the content of both influencers. This means that the audience has a clear understanding of the order in which the two bloggers post and whether or not they publish advertisements.
 5. Long-term financial gains are more important than short-term financial gains. The favorability and trust of followers contribute to the long-term development of influencers and enable them to obtain sustained earnings. Therefore, while advertising may bring short-term financial gains to influencers, it can to some extent lower the favorability of the audience towards them, thereby hindering their long-term earnings.
-
 
   - [Results]
   Result for Model 1
