@@ -88,8 +88,7 @@ The Competitive game environment simulates real-life social networking platforms
 
 ### Spotlight
 - Posters
- 
- ![image](new poster.png)
+Here is the link for poster: https://github.com/Rising-Stars-by-Sunshine/csecon206-rongcong-FinalProject/blob/main/new%20poster.png
 
 This poster gives an overview of causal research ouline. It contains five sections: Background and Motivation, Research Questions, Literature inspiration, Models, Referenes.
 This poster is created by Canva.
