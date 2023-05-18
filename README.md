@@ -29,7 +29,7 @@ Given the complexity of real social media environments, the game models makes se
   - [Results]
   Result for Model 1
   
-  The Nash Equilibrium in this competitive game is (no obvious ad, no obvious ad). In this equilibrium, both players choose not to release post with obvious advertisements which leads to a payoff 5 for each other. A strategy is a Nash Equilibrium strategy if it is the best strategy for an agent, given the strategies the other players are actually using[16]. In this competitive game, neither player can unilaterally change their strategy to improve their own payoff, given the strategy of the other player. As a result, no matter what the other side chooses, not releasing posts with obvious advertisements is always the best choice under the circumstances. Therefore, in this case, the NE strategy is (no obvious ad, no obvious ad), and both players end up with a suboptimal outcome.
+  The Nash Equilibrium in this competitive game is (no obvious ad, no obvious ad). In this equilibrium, both players choose not to release post with obvious advertisements which leads to a payoff 5 for each other. A strategy is a Nash Equilibrium strategy if it is the best strategy for an agent, given the strategies the other players are actually using. In this competitive game, neither player can unilaterally change their strategy to improve their own payoff, given the strategy of the other player. As a result, no matter what the other side chooses, not releasing posts with obvious advertisements is always the best choice under the circumstances. Therefore, in this case, the NE strategy is (no obvious ad, no obvious ad), and both players end up with a suboptimal outcome.
 
 Result for Model 2
 
@@ -59,7 +59,9 @@ In this virtual social media platform, Player A and Player B engage in intense c
 - Solution Concept
 
 Here is Model 1, which simulates the case with no obvious posting order.
+
  ![image](2.png)
+ 
  If both SMIA and SMIB choose not to release explicit advertisements, their payoff will be 5 each.
 If both SMIA and SMIB choose to release explicit advertisements, their payoff will be 3 each.
 If SMIA chooses to release explicit advertisements but SMIB chooses not to, SMIA's payoff will be 0, while SMIB's payoff will be 10.
@@ -67,7 +69,9 @@ If SMIB chooses to release explicit advertisements but SMIA chooses not to, SMIB
 
 
 Here is Model 2, which simulates the case with obvious  posting order.
+
  ![image](1.png)
+
  If both SMIA and SMIB choose not to release explicit advertisements, their respective earnings will be 7 and 5.
 If both SMIA and SMIB choose to release explicit advertisements, their respective earnings will be 5 and 3.
 If SMIA chooses to release explicit advertisements, but SMIB chooses not to, SMIA's earnings will be 2, and SMIB's earnings will be 10.
