@@ -94,8 +94,9 @@ This poster gives an overview of causal research ouline. It contains five sectio
 This poster is created by Canva.
 - Figures
 
-Here is the link for overleaf pdf:
-Here is the link for overleaf zip:
+Here is the link for overleaf pdf:https://github.com/Rising-Stars-by-Sunshine/csecon206-rongcong-FinalProject/blob/main/spotlight/final_project.pdf
+
+Here is the link for overleaf zip:https://github.com/Rising-Stars-by-Sunshine/csecon206-rongcong-FinalProject/blob/main/spotlight/final%20project.zip
 
 - Slides
 
@@ -103,7 +104,8 @@ Here is the link for slides:https://github.com/Rising-Stars-by-Sunshine/csecon20
 
 - Review articles
 
-Here is the link for all the review articles:
+Here is the link for all the review articles:https://github.com/Rising-Stars-by-Sunshine/csecon206-rongcong-FinalProject/blob/main/spotlight/ref.bib
+
 
 - Media appearance
 
