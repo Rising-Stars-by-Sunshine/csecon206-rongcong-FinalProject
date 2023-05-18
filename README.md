@@ -71,27 +71,28 @@ If SMIB chooses to release explicit advertisements, but SMIA chooses not to, SMI
 
 The Competitive game environment simulates real-life social networking platforms. In this virtual world, there are have players—Player A and Player B, representing two social media influencers (SMIs) with similar fan bases and content types. There is a clear competition between these two players as they strive to gain the favor of the audience and stand out on this virtual social media platform.
 
-- Here is the link for Strategic plays and Equilibruim Evaluations: 
+- Here is the link for Strategic plays and Equilibruim Evaluations: https://github.com/Rising-Stars-by-Sunshine/csecon206-rongcong-FinalProject/upload/main/code
 
 
 
 ### Spotlight
 - Posters
 ![image](poster.png)
+
 This poster gives an overview of causal research ouline. It contains five sections: Background and Motivation, Research Questions, Literature inspiration, Models, Referenes.
 This poster is created by Canva.
 - Figures
 
-Here is the link for overleaf pdf
-Here is the link for overleaf zip
+Here is the link for overleaf pdf:
+Here is the link for overleaf zip:
 
 - Slides
 
-Here is the link for slides
-=
+Here is the link for slides:
+
 - Review articles
 
-Here is the link for all the review articles
+Here is the link for all the review articles:
 
 - Media appearance
 
