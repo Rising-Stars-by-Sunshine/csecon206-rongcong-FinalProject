@@ -88,6 +88,8 @@ The Competitive game environment simulates real-life social networking platforms
 
 ### Spotlight
 - Posters
+
+
 ![image](new poster.png)
 
 This poster gives an overview of causal research ouline. It contains five sections: Background and Motivation, Research Questions, Literature inspiration, Models, Referenes.
