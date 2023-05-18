@@ -71,7 +71,8 @@ If SMIB chooses to release explicit advertisements, but SMIA chooses not to, SMI
 
 The Competitive game environment simulates real-life social networking platforms. In this virtual world, there are have players—Player A and Player B, representing two social media influencers (SMIs) with similar fan bases and content types. There is a clear competition between these two players as they strive to gain the favor of the audience and stand out on this virtual social media platform.
 
-- Here is the link for Strategic plays and Equilibruim Evaluations: https://github.com/Rising-Stars-by-Sunshine/csecon206-rongcong-FinalProject/upload/main/code
+- Here is the link for Strategic plays and Equilibruim Evaluations: https://github.com/Rising-Stars-by-Sunshine/csecon206-rongcong-FinalProject/blob/main/code/final_project_models.ipynb
+
 
 
 
@@ -88,7 +89,7 @@ Here is the link for overleaf zip:
 
 - Slides
 
-Here is the link for slides:
+Here is the link for slides:https://github.com/Rising-Stars-by-Sunshine/csecon206-rongcong-FinalProject/blob/main/final%20presentation.pptx
 
 - Review articles
 
