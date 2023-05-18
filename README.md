@@ -62,7 +62,17 @@ If SMIB chooses to release explicit advertisements, but SMIA chooses not to, SMI
 
 
 
-- Evaluations: e.g. efficiency and fairness
+- Evaluations: 
+
+Definition of Efficiency: In the context of this competitive game, efficiency is defined as the level of audience affection towards social media influencers. It measures the effectiveness of influencers in engaging and appealing to their audience through their content and promotional activities.
+
+By comparing the earnings in the matrix, it is evident that in the absence of a clear publishing order, not publishing content with obvious advertisements yields higher profits, regardless of whether competitors publish content with obvious advertisements or not. At the same time, when competitors release content with obvious advertisements, the decision not to publish such content significantly increases earnings. On the other hand, long-term advertising campaigns and delayed publication of already trending content are the least advantageous for influencers to achieve long-term profits. While there may be some short-term advertising revenue, it is not conducive to cultivating and expanding the fan base.
+
+This game is fair for several reasons. Firstly, both players operate within an open and transparent social media environment. This means they can observe, evaluate, and compare each other's actions and strategies without any hidden information or inequality. This transparent environment ensures information symmetry, providing both players with equal opportunities and resources in the competition.
+Secondly, both players have the autonomy to decide whether to post obvious advertisements and determine the posting order. They have the right to choose when, where, and how to publish advertising content on social media platforms. This power of autonomous choice allows both players to make decisions that are most suitable for their own circumstances and strategic goals.
+Thirdly, both players understand the potential payoffs of their choices. They have a comprehension and expectation of the consequences, allowing them to weigh the advantages and disadvantages of different options.
+Finally, any choices and actions made by the opponent will be fully revealed at the moment of posting. This means that both players can instantly understand the opponent's decisions and make corresponding reactions and adjustments based on that information. This real-time openness ensures fairness and transparency in the game, preventing fraudulent or unfair competitive behaviors and enabling both players to compete in a just environment
+
 
 
 
